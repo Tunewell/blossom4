@@ -2,7 +2,7 @@
 
 A lovely interactive music generator.
 
-[blossom.alexbainter.com](https://blossom.alexbainter.com)
+
 
 ## Inspiration
 
