@@ -149,11 +149,11 @@ const Canvas = ({ player }) => {
         />
       </button>
       <a
-        href="https://www.musicoterapia.online"
+        href="https:/www.musicoterapia.online"
         className="alex-bainter-link"
         ref={alexBainterLink}
       >
-        made by Spin Seeds
+        made by SpinSeeds
       </a>
     </div>
   ) : (
